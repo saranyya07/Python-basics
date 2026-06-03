@@ -1,2 +1,2 @@
 # Python-basics
-This repository contains my Python practice programs. I am currently learning programming and improving daily.
+This repository contains my Python practice projects and programs. Through these projects, I am gaining practical programming experience and improving my problem-solving abilities.

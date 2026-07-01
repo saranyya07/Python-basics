@@ -2,7 +2,7 @@ students=[]
 while True:
     print("\n--- Student Record Management System---")
     print("1.Add Student")
-    print("2.Displau Students")
+    print("2.Display Students")
     print("3. Search Students")
     print("4.Update Student")
     print("5.Delete Student")
